@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jangseop-Park
+- 👋 Hi, I’m @Jangseop-Park (박장섭)
 - 👀 I’m interested in applying AI to mechanical engineering, especially 3D deep learning and data-driven design.
 - 🌱 I’m currently learning advanced deep learning techniques like DeepONets and GNNs for nonlinear analysis.
 - 💞️ I’m looking to collaborate on AI-driven engineering design projects to accelerate CAE processes.
